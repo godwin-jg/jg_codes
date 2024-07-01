@@ -1,0 +1,28 @@
+.frame {
+  width: 80%;
+  overflow: hidden;
+  margin: auto;
+  padding: 2em;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: space-between;
+}
+
+.boundary {
+  justify-content: center;
+  text-align: center;
+  margin-top: 3em;
+}
+
+.boundary-sorting {
+  flex-wrap: nowrap;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 3em;
+}
+
+.bar {
+  display: inline-block;
+  border: 1px solid black;
+}

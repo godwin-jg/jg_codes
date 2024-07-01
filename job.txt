@@ -1,0 +1,16 @@
+ react vs nextjs
+ react vs html css
+ nodejs vs others
+ express, fasapi
+ mongodb
+ ___________________
+
+ hightlights :
+
+ saviour         - jwt,redux,stripe,clean code -- why redux,
+ i-teller        - state,ask aswi
+ training groups - generating pdfs, react component to pdf,
+
+ x clone      - infinite scrolling,prisma
+ yt-spty      - refresh_token,
+ map-mystique - algo for every tourist places for every instance between source and the destination
